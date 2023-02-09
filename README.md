@@ -95,6 +95,7 @@ structures.
 
 ## Organizations
 **Applied Artificial Intelligence Club**
+<br> *President*
 <br> *SGA Club, University of South Dakota*
 
 ## Education
