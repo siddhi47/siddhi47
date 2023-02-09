@@ -1,6 +1,9 @@
 # Siddhi Kiran Bajracharya
 
-Experienci workin working with huge fintech data for 3 years at eXtensoData including building and deploying machine
-learning as well as statistic models. Knowledgeable in identifying core business problems and capable of proper
-communication with the team. Skilled in programming, database, ETL, and Data Analysis. I also have experience
-with computer vision, MLOps & embedded devices as a result of working at leapfrog technologies for 1 year. 
+Hi everyone!
+
+I am Siddhi and my passion for building machine learning solutions has made me pick machine learning engineering as a career. I have been working with machine learning, deep learning, computer vision and machine learning operations for the last 5 years. Currently, I am just a student with a lot of time to work on my repo.
+
+My first job was as a data scientist in one of the subsidiaries of a prestigious fintech company in Nepal called extensodata. At extensodata, I mostly tangled with huge structured fintech data ranging from banks to e-wallets. I began realizing that data science is a huge field and can get very vague.
+
+I wanted to specialize in computer vision and joined Leapfrog, where I worked on some image segmentation and object tracking projects. After working for a year, I decided to continue my studies and joined the graduate program at University of South Dakota.
