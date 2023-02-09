@@ -10,36 +10,19 @@ I wanted to specialize in computer vision and joined Leapfrog, where I worked on
 
 
 ## Technical Skills
-<strong>Languages and Scripts</strong>: Python, Bash, C/C++
-
-<strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Django Rest Framework, Keras
-
-<strong>(with Tensorflow), TF Lite, Tensorflow TensorRT, Pytorch, Darknet (For YOLO), OpenCV, Tesseract
-
-<strong>IDE</strong>: NVim, Jupyter Notebook, Pycharm, VSCode
-
-<strong>Database</strong>: MySql, PostgreSQL, MongoDB
-
-<strong>VCS</strong>: Git, Github, Bitbucket, Gitlab
-
-<strong>Cloud services</strong>: (AWS) S3, EC2, Lambda
-
-<strong>Containerization, and orchestration</strong>: Docker, Docker-Compose
-
-<strong>Collaboration</strong>: JIRA, Trello, Slack
-
-<strong>Methodology</strong>: Scrum, Kanban
-
-<strong>ETL</strong>: Pentaho, Airflow, Dragster
-
-<strong>Messaging Broker</strong>: RabbitMQ
-
-<strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
-
-<strong>Visualization</strong>: Microsoft PowerBi, Apache Superset, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
-
-<strong>ML-Ops</strong>: Weights and Biases, MLflow, Tensorflow-Serve
-
-<strong>Hardware</strong>: Jetson Nano Developer Kit.
-
-<strong>Operating System</strong>: Linux, Windows
+- <strong>Languages and Scripts</strong>: Python, Bash, C/C++
+- <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Django Rest Framework, Keras(with Tensorflow), TF Lite, Tensorflow TensorRT, Pytorch, Darknet (For YOLO), OpenCV, Tesseract
+- <strong>IDE</strong>: NVim, Jupyter Notebook, Pycharm, VSCode
+- <strong>Database</strong>: MySql, PostgreSQL, MongoDB
+- <strong>VCS</strong>: Git, Github, Bitbucket, Gitlab
+- <strong>Cloud services</strong>: (AWS) S3, EC2, Lambda
+- <strong>Containerization, and orchestration</strong>: Docker, Docker-Compose
+- <strong>Collaboration</strong>: JIRA, Trello, Slack
+- <strong>Methodology</strong>: Scrum, Kanban
+- <strong>ETL</strong>: Pentaho, Airflow, Dragster
+- <strong>Messaging Broker</strong>: RabbitMQ
+- <strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
+- <strong>Visualization</strong>: Microsoft PowerBi, Apache Superset, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
+- <strong>ML-Ops</strong>: Weights and Biases, MLflow, Tensorflow-Serve
+- <strong>Hardware</strong>: Jetson Nano Developer Kit.
+- <strong>Operating System</strong>: Linux, Windows
