@@ -8,6 +8,7 @@ My first job was as a data scientist in one of the subsidiaries of a prestigious
 
 I wanted to specialize in computer vision and joined Leapfrog, where I worked on some image segmentation and object tracking projects. After working for a year, I decided to continue my studies and joined the graduate program at University of South Dakota.
 
+[![Siddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddhi47)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technical Skills
 - <strong>Languages and Scripts</strong>: Python, Bash, C/C++
