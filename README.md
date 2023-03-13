@@ -107,4 +107,5 @@ structures.
 **Tribhuvan University**
 <br>*Bachelor in Computer Engineering, KEC (Tribhuvan University) (2014-2018)*
 
+<a href = "./projects.md">Projects</a>
 
