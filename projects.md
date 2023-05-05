@@ -1,5 +1,6 @@
 | Projects | Description|
 |----------|------------|
+|<a href = "https://github.com/siddhi47/rl-project">Stock and crypto market correlation analysis</a>| Analysis of affects of crypto market on stock market using deep reinforcement learning algorithms: PPO, A2C|
 |<a href = "https://github.com/siddhi47/ecg-classification">Arrhythmia detection</a>| Detection of arrhythmia in ecg signals using spectral representation and deep learning networks|
 |<a href = "Reinforcement Learning Toolkit">Reinforcement Learning Toolkit</a>| This is a part of reinforcement learning course at University of South Dakota. This is a toolkit for reinforcement learning algorithms. It has implementation of Markov Decision Process from scratch. Other algorithms will be added soon.|
 |<a href = "Pyspark Recommendation System">Pyspark Recommendation System</a>| This is a project done as a part of my masters course. The project is a recommendation system built using pyspark. The dataset used is the book recommendation dataset. The project uses cloud storage, mongodb, pyspark, and hdfs.|
