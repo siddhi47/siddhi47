@@ -10,6 +10,6 @@
 |<a href = "https://github.com/siddhi47/Cursor-Control-using-Eye-Movement">Cursor control using head and eye movement</a>| This is a project we did for the LITE competition held in Kantipur Engineering college. The project is a cursor control system built using opencv and python. The project uses a webcam to track the head and eye movement of the user and control the cursor accordingly.|
 |<a href = "https://bitbucket.org/siddhi47/ethereumvoting/src/master/voting/">Digital voting system using ethereum</a>|This is a ethereum based voting system built using solidity and django. The project was done as a part of Engineering degree course. The project uses ethereum blockchain to store the votes and django to build the frontend. |
 |<a href = "https://github.com/siddhi47/mat2jpeg">Matlab Image converter</a>| A multithreaded approach for converting matlab signals to mel spectrogram in jpeg. |
-|<a href = "https://github.com/siddhi47/tensorflow_serving">Sample tensorflow serving</a>|A template for tensorflow serving |
+|<a href = "https://github.com/siddhi47/tensorflow_serving">Simple tensorflow serving</a>|A template for tensorflow serving |
 |<a href = "https://github.com/siddhi47/medicalimage_converter">Medical Image Converter</a>|A multithreaded approach for conversion of DICOM images |
 |<a href = "https://github.com/siddhi47/linear-programming-package">A linear programming solver</a>| Linear programming solver using python wrapper around R|
