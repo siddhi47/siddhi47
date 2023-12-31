@@ -1,7 +1,6 @@
 | Projects | Description|
 |----------|------------|
-|<a href = "https://github.com/siddhi47/siamese-bert">Paraphrase detection using Siamese network with bert</a>| |
-
+|<a href = "https://github.com/siddhi47/siamese-bert">Paraphrase detection using Siamese network with bert</a>| ..|
 |<a href = "https://github.com/siddhi47/rl-project">Stock and crypto market correlation analysis</a>| Analysis of effects of the crypto market on the stock market using deep reinforcement learning algorithms: PPO, A2C. Paper link: <a href = 'https://github.com/siddhi47/rl-project/blob/main/Reinforcement_Learning.pdf'>PDF</a>|
 |<a href = "https://github.com/siddhi47/ecg-classification">Arrhythmia detection</a>| Detection of arrhythmia in ECG signals using spectral representation and deep learning networks|
 |<a href = "https://github.com/siddhi47/reinforcement-learning">Reinforcement Learning Toolkit</a>| This is part of a reinforcement learning course at the University of South Dakota. This is a toolkit for reinforcement learning algorithms. It has an implementation of the Markov Decision Process from scratch. Other algorithms will be added soon.|
