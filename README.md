@@ -12,27 +12,37 @@ I wanted to specialize in computer vision and joined Leapfrog, where I worked on
 
 ## Technical Skills
 - <strong>Languages and Scripts</strong>: Python, Bash, C/C++
-- <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Django Rest Framework, Keras(with Tensorflow), TF Lite, Tensorflow TensorRT, Pytorch, Darknet (For YOLO), OpenCV, Tesseract
+- <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Django Rest Framework, Keras(with Tensorflow), TF Lite, Tensorflow TensorRT, Pytorch, Darknet (For YOLO), OpenCV, Tesseract, Ultralytics.
 - <strong>IDE</strong>: NVim, Jupyter Notebook, Pycharm, VSCode
 - <strong>Database</strong>: MySql, PostgreSQL, MongoDB
 - <strong>VCS</strong>: Git, Github, Bitbucket, Gitlab
 - <strong>Cloud services</strong>: (AWS) S3, EC2, Lambda
-- <strong>Containerization, and orchestration</strong>: Docker, Docker-Compose
+- <strong>Containerization, and orchestration</strong>: Docker, Docker-Compose.
 - <strong>Collaboration</strong>: JIRA, Trello, Slack
 - <strong>Methodology</strong>: Scrum, Kanban
 - <strong>ETL</strong>: Pentaho, Airflow, Dragster
 - <strong>Messaging Broker</strong>: RabbitMQ
 - <strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
 - <strong>Visualization</strong>: Microsoft PowerBi, Apache Superset, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
-- <strong>ML-Ops</strong>: Weights and Biases, MLflow, Tensorflow-Serve
-- <strong>Hardware</strong>: Jetson Nano Developer Kit.
-- <strong>Operating System</strong>: Linux, Windows
-
+- <strong>ML-Ops</strong>: Weights and Biases, MLflow, Tensorflow-Serve, ClearML.
+- <strong>Hardware</strong>: Jetson, Oak cameras (luxonis), Raspberry Pi.
+- <strong>Operating System</strong>: Linux, Windows, MacOS.
 ## Professional Experience
+
+### Senior Machine Learning Engineer (2024 Feb - current)
+*i8 Labs Inc, Mountain View, California, USA*
+- Enhanced mAP score by 26% and improved training efficiency by establishing in-house annotation standards and leading
+computer vision model training and deployment using custom YOLO models with the Ultralytics framework for accurate
+people, bicycle, and car counting across diverse visual conditions.
+- Implemented ClearML for MLOps and deployed IoT solutions using Balena, managing deployment to devices with OAK, 
+Raspberry Pi, and ESP32 controller  and enabling efficient tracking of datasets, models, and experiments to improve reproducibility and
+deployment automation.
+- Conducted rigorous internal audits of deployed models to ensure accuracy, enhancing client satisfaction 
+and supporting their goal of securing funding to maintain and expand trails.
 
 ### Software Engineer, AI/ML (2021 Aug to 2022 Aug)
 
-*Leapfrog Technology*
+*Leapfrog Technology, Kathmandu, Nepal*
 - Lead and mentored the AI/ML team for project delivery.
 - Lead end-to-end client requirement elicitation process.
 - Defined & developed standard ML practices.
@@ -49,7 +59,7 @@ deepsort for tracking.
 - Worked as team manager for the AI team.
 
 ### Data Scientist (2018 Sept to 2021 August)
-*Extensodata Pvt. Ltd*
+*Extensodata Pvt. Ltd, Kathmandu, Nepal*
 - Use and development of Data Architectures.
 - Explanatory Data Analysis (EDA) in SQL as well as Jupyter notebooks.
 - Using big data tools such as Hadoop, Spark, Hive, etc to manage huge volumes of data effectively.
