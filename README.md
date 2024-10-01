@@ -41,7 +41,7 @@ deployment automation.
 and supporting their goal of securing funding to maintain and expand trails.
 
 ### Career Break (Academic Development)
-*USA*
+*MSc. Computer Science at University of South Dakota (Vermillion, USA)*
 - Took a break after a successful career in machine learning to pursue further academic studies. 
 - Published a paper at the IEEE AI Conference and co-authored a book on machine learning.
 
