@@ -20,3 +20,6 @@
 |<a href = "https://github.com/siddhi47/linear-programming-package">A linear programming solver</a>| Linear programming solver using python wrapper around R|
 |<a href = "https://github.com/siddhi47/projects_and_researchs/tree/recommender_system">Recommendation Systems</a>| Different approaches towards recommendation systems. Check here for some documentation:<a href = https://github.com/siddhi47/projects_and_researchs/blob/recommender_system/reccomender_system_diff_approaches/Recommender.docx>DOCX</a>|
 |<a href = "http://18.219.246.2:5000"> Job application helper </a> | A chatbot powerd with GPT that uses your resume and helps you answer questions regarding the job application (e.g. writing a cover letter)|
+|<a href = "https://github.com/siddhi47/RAG-chatbot"> Basic RAG application </a> | Basic RAG chatbot that can ingest files (text, pdf) and URL links|
+
+
