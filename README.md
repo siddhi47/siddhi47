@@ -2,7 +2,7 @@
 
 Hi everyone!
 
-I am Siddhi and my passion for building machine-learning solutions has made me pick machine-learning engineering as a career. I have been working with machine learning, deep learning, computer vision, and machine learning operations for the last 5 years. Currently, I am just a student with a lot of time to work on my repo. You can check out my <a href = "./projects.md">projects here</a>.
+I am Siddhi and my passion for building machine-learning solutions has made me pick machine-learning engineering as a career. I have been working with machine learning, deep learning, computer vision, data infrastructure, and machine learning operations for over 6 years. I'm currently a Senior Machine Learning Engineer at ONRAMP, building recommendation and optimization systems for the freight industry. You can check out my <a href = "./projects.md">projects here</a>.
 
 My first job was as a data scientist in one of the subsidiaries of a prestigious fintech company in Nepal called extensodata. At extensodata, I mostly tangled with huge structured fintech data ranging from banks to e-wallets. I began realizing that data science is a huge field and can get very vague.
 
@@ -11,34 +11,43 @@ I wanted to specialize in computer vision and joined Leapfrog, where I worked on
 ![Siddhi's GitHub stats](./profile/stats.svg)
 
 ## Technical Skills
-- <strong>Languages and Scripts</strong>: Python, Bash, C/C++
-- <strong>Frameworks and Libraries</strong>: Pandas, Scikit-learn, Numpy, Seaborn, Plotly, Scipy, Django Rest Framework, Keras(with Tensorflow), TF Lite, Tensorflow TensorRT, Pytorch, Darknet (For YOLO), OpenCV, Tesseract, Ultralytics.
-- <strong>IDE</strong>: NVim, Jupyter Notebook, Pycharm, VSCode
-- <strong>Database</strong>: MySql, PostgreSQL, MongoDB
-- <strong>VCS</strong>: Git, Github, Bitbucket, Gitlab
-- <strong>Cloud services</strong>: (AWS) S3, EC2, Lambda
-- <strong>Containerization, and orchestration</strong>: Docker, Docker-Compose.
-- <strong>Collaboration</strong>: JIRA, Trello, Slack
-- <strong>Methodology</strong>: Scrum, Kanban
-- <strong>ETL</strong>: Pentaho, Airflow, Dragster
-- <strong>Messaging Broker</strong>: RabbitMQ
-- <strong>Big Data Technology</strong>: Apache Spark, HDFS, PySpark (SQL, MLLib)
-- <strong>Visualization</strong>: Microsoft PowerBi, Apache Superset, Python Libraries (Matplotlib, Seaborn, Plotly, Dash)
-- <strong>ML-Ops</strong>: Weights and Biases, MLflow, Tensorflow-Serve, ClearML.
-- <strong>Hardware</strong>: Jetson, Oak cameras (luxonis), Raspberry Pi.
-- <strong>Operating System</strong>: Linux, Windows, MacOS.
+- <strong>Languages</strong>: Python, Go, C, C++, SQL, Bash.
+- <strong>ML / CV / Multimodal</strong>: PyTorch, PyTorch Lightning, TensorFlow, scikit-learn, Ultralytics (YOLO), OpenCV, TensorRT, depthai.
+- <strong>Data Processing & Pipelines</strong>: Apache Airflow, Argo Workflows, PySpark, HDFS, Pandas, NumPy.
+- <strong>Cloud & Infra</strong>: AWS (EC2, S3, EKS), GCP (GKE, Vertex AI), Kubernetes, Helm, Docker.
+- <strong>MLOps & Observability</strong>: MLFlow, ClearML, Grafana, Sentry.
+- <strong>Serving & APIs</strong>: FastAPI, Flask, Django Rest.
+- <strong>Database</strong>: MySQL, MongoDB, SQLite, Postgres.
+- <strong>Sensors & Edge Hardware</strong>: OAK Camera, NVIDIA Jetson, ESP32, Raspberry Pi.
+- <strong>Version Control</strong>: Git, Bitbucket.
+
 ## Professional Experience
 
-### Senior Machine Learning Engineer (2024 Feb - current)
+### Senior Machine Learning Engineer (2025 Sep - current)
+*ONRAMP, New York, USA*
+- Designed the data architecture for a production recommendation system and built the Go and Python microservices
+serving recommendation and analytics workloads at scale.
+- Migrated and consolidated ~10 legacy cloud functions into a generalized, parameterized Argo Workflows framework
+(self-hosted), eliminating VPC connector overhead and turning one-off featurization and data-preparation jobs into
+reusable, maintainable pipelines for downstream ML tasks.
+- Containerized and deployed services with Docker, Kubernetes, and Helm on GCP, optimizing for scalability, compute
+utilization, and cost efficiency across the end-to-end pipeline.
+- Built simulation workflows for rapid, pre-production experimentation, evaluating proposed recommendation and
+optimization algorithms against historic transaction data and projecting ~15% fuel cost savings for carriers.
+- Provided technical leadership in the design and specification of optimization and recommendation algorithms,
+driving tradeoff analysis across quality, speed, and cost.
+
+### Senior Machine Learning Engineer (2024 Feb - 2025 Sep)
 *i8 Labs Inc, Mountain View, California, USA*
-- Enhanced mAP score by 26% and improved training efficiency by establishing in-house annotation standards and leading
-computer vision model training and deployment using custom YOLO models with the Ultralytics framework for accurate
-people, bicycle, and car counting across diverse visual conditions.
-- Implemented ClearML for MLOps and deployed IoT solutions using Balena, managing deployment to devices with OAK, 
-Raspberry Pi, and ESP32 controller  and enabling efficient tracking of datasets, models, and experiments to improve reproducibility and
-deployment automation.
-- Conducted rigorous internal audits of deployed models to ensure accuracy, enhancing client satisfaction 
-and supporting their goal of securing funding to maintain and expand trails.
+- Trained, fine-tuned, and productionized custom YOLO computer vision models (PyTorch/Ultralytics, AWS) for
+real-world sensor streams, achieving an 8% increase in mean Average Precision (mAP) with metric-driven evaluation
+across model iterations.
+- Built and standardized an internal semi-automated data annotation and curation pipeline to surface high-value
+training data, improving model accuracy and cutting manual labeling effort by 80%.
+- Reduced Docker image size by 60%, cutting inference footprint, storage cost, and deployment time across a fleet of
+heterogeneous edge/IoT devices.
+- Maintained 99% uptime for deployed inference services using Grafana for monitoring/observability and Balena for
+fleet device management, prioritizing reliability and operational simplicity.
 
 ### Career Break (Academic Development)
 *MSc. Computer Science at University of South Dakota (Vermillion, USA)*
@@ -84,9 +93,31 @@ quartile binnings, combining multiple features) in bank-specific data.
 structures.
 - Writing stored procedures and scripts to generate various reports from source data for UI consumption.
 - Mentoring interns, trainees, and Junior members of the Team
+- Part of the small team that built and launched Foneloan, Nepal's first collateral-free instant digital lending
+product, now offered by 11+ major commercial banks; built the data pipelines (Apache Airflow, Pentaho) automating
+loan-disbursement decisions with ML and statistical models, eliminating the human decision loop.
+- Built an AWS-based OCR pipeline (Tesseract + Python) to automate text extraction from national identification
+cards, improving data entry speed by 90%.
 
+## Publications
+**Deep Spectral Features to Detect Atrial Fibrillation using Single-Lead ECG Signals**
+<br>*2023, [10.1109/CAI54212.2023.00074](https://doi.org/10.1109/CAI54212.2023.00074)*
+
+**Cracking the Machine Learning Code: Technicality or Innovation?**
+<br>*2024, [10.1007/978-981-97-2720-9](https://doi.org/10.1007/978-981-97-2720-9)*
+
+**A Hybrid Transformer Model for Robust Multi-modal Emotion Recognition Using Audio and Text Data**
+<br>*2025, [10.1007/978-981-96-9533-1_22](https://doi.org/10.1007/978-981-96-9533-1_22)*
 
 ## Certifications
+**MLOps | Machine Learning Operations by Duke University**
+<br>*Coursera (Aug 2024)*
+<br>C2229E7K8YCJ
+
+**Container Orchestration using Kubernetes**
+<br>*Coursera (Aug 2024)*
+<br>1df59f5037a370f3e6107779451aeca2
+
 **Introduction to Machine Learning in Production**
 <br>*Coursera (July 2022)*
 <br>https://coursera.org/verify/AQYAFFTRKJW9
@@ -116,11 +147,35 @@ structures.
 
 ## Education
 **University of South Dakota**
-<br>*Masters in Computer Science, AI Specialization (2022 Fall)*
-<br> Expected Graduation: December 2023
+<br>*MS in Computer Science (Aug 2022 - Dec 2023)*
+<br>GPA: 4.0/4.0
+<br>Coursework: Computer vision, Machine learning and pattern recognition
 
 **Tribhuvan University**
 <br>*Bachelor in Computer Engineering, KEC (Tribhuvan University) (2014-2018)*
 
-<a href = "./projects.md">Projects</a>
+## Featured Projects
+See the full, categorized list in <a href = "./projects.md">projects.md</a>.
+
+**ML Research & Graph Learning**
+- <a href = "https://github.com/siddhi47/bluesky-gnn">Bluesky GNN</a> — Graph neural network experiments on the Bluesky follow graph, crawled via the public AT Protocol API.
+
+**LLM, NLP & Multimodal**
+- <a href = "https://github.com/siddhi47/RAG-chatbot">RAG Document Q&A System</a> — Retrieval-augmented generation over PDF/JSON/CSV/web documents using embedding-based vector search (ChromaDB), LangChain, and LangGraph.
+- <a href = "https://github.com/siddhi47/multimodal-emotion">Multimodal Emotion Analysis</a> — Multimodal network (LLMs + visual models) to identify emotion from speech and video streams.
+
+**Computer Vision & Edge AI**
+- <a href = "https://github.com/siddhi47/dashcam">OAK Dashcam</a> — Multi-camera dashcam for Raspberry Pi + Luxonis OAK, running H.265 encoding and YOLO detection entirely on-camera so the Pi's CPU stays free.
+- <a href = "https://github.com/siddhi47/yolo-ultralytics-clearml">YOLO Ultralytics + ClearML</a> — End-to-end YOLO training pipeline from CVAT annotations to a ClearML-tracked, S3-backed model registry.
+- <a href = "https://www.i8labs.com/">Multi Object Tracker</a> — Multi-object tracking system on Jetson Nano using DeepSORT, YOLOv3, and OpenCV.
+- <a href = "https://github.com/siddhi47/reidentification">Reidentification</a> — Training and evaluation scripts for reidentification in multi-object tracking.
+
+**Recommendation Systems & Big Data**
+- <a href = "https://github.com/siddhi47/pyspark-recommentation">Pyspark Recommendation System</a> — Distributed book recommendation system using PySpark, MongoDB, and HDFS.
+
+**Healthcare & Signal Processing**
+- <a href = "https://github.com/siddhi47/ecg-classification">Arrhythmia Detection</a> — Detection of arrhythmia in ECG signals using spectral representation and deep learning.
+
+**Real-World Products**
+- <a href = "https://foneloan.com.np/">Foneloan</a> — Nepal's first collateral-free instant digital lending product, now offered by 11+ major commercial banks.
 
